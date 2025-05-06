@@ -1,0 +1,25 @@
+.body {
+  margin: 0;
+  height: 100vh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+    .container{
+        width: 600px;
+        height: 600px;
+        background-color: coral;
+        border-color: black;
+        text-align: center;
+        padding: 300px;
+    }
+    .box {
+        margin: 0;
+        width: 400px;
+          height: 400px;
+          display: flex;
+          align-items: center;
+          justify-content: center;
+          background-color: black;
+        
+    }
